@@ -1,0 +1,12 @@
+.msg {
+    border: 1px solid black;
+    padding-left: 20px;
+}
+
+.msg.failure-msg {
+    background-color: coral;
+}
+
+.msg.success-msg {
+    background-color: greenyellow;
+}
